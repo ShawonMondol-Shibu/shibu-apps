@@ -1,0 +1,543 @@
+[
+  {
+    "image": "/assets/demo-app (1).webp",
+    "title": "Note Taker",
+    "companyName": "ByteWorks",
+    "id": 1,
+    "description": "Take notes and organize your thoughts easily.",
+    "size": 89.74,
+    "reviews": 4474,
+    "ratingAvg": 3.92,
+    "downloads": 251798,
+    "ratings": [
+      { "name": "1 star", "count": 215 },
+      { "name": "2 star", "count": 336 },
+      { "name": "3 star", "count": 597 },
+      { "name": "4 star", "count": 1314 },
+      { "name": "5 star", "count": 2012 }
+    ]
+  },
+  {
+    "image": "/assets/demo-app (2).webp",
+    "title": "Task Manager",
+    "companyName": "SoftByte",
+    "id": 2,
+    "description": "An intuitive app to manage your daily tasks efficiently.",
+    "size": 320.16,
+    "reviews": 6987,
+    "ratingAvg": 4.01,
+    "downloads": 594532,
+    "ratings": [
+      { "name": "1 star", "count": 300 },
+      { "name": "2 star", "count": 490 },
+      { "name": "3 star", "count": 950 },
+      { "name": "4 star", "count": 1897 },
+      { "name": "5 star", "count": 3350 }
+    ]
+  },
+  {
+    "image": "/assets/demo-app (3).webp",
+    "title": "Fitness Tracker",
+    "companyName": "TechNova",
+    "id": 3,
+    "description": "Track your workouts and monitor progress over time.",
+    "size": 220.75,
+    "reviews": 5246,
+    "ratingAvg": 3.84,
+    "downloads": 891024,
+    "ratings": [
+      { "name": "1 star", "count": 275 },
+      { "name": "2 star", "count": 482 },
+      { "name": "3 star", "count": 815 },
+      { "name": "4 star", "count": 1584 },
+      { "name": "5 star", "count": 2090 }
+    ]
+  },
+  {
+    "image": "/assets/demo-app (4).webp",
+    "title": "Photo Editor",
+    "companyName": "Innovent",
+    "id": 4,
+    "description": "Edit your photos with professional tools and filters.",
+    "size": 175.99,
+    "reviews": 6244,
+    "ratingAvg": 4.17,
+    "downloads": 450112,
+    "ratings": [
+      { "name": "1 star", "count": 187 },
+      { "name": "2 star", "count": 423 },
+      { "name": "3 star", "count": 902 },
+      { "name": "4 star", "count": 1950 },
+      { "name": "5 star", "count": 2782 }
+    ]
+  },
+  {
+    "image": "/assets/demo-app (5).webp",
+    "title": "Language Learner",
+    "companyName": "NextGenApps",
+    "id": 5,
+    "description": "Learn new languages with interactive lessons.",
+    "size": 145.88,
+    "reviews": 4175,
+    "ratingAvg": 3.74,
+    "downloads": 789532,
+    "ratings": [
+      { "name": "1 star", "count": 198 },
+      { "name": "2 star", "count": 367 },
+      { "name": "3 star", "count": 745 },
+      { "name": "4 star", "count": 1120 },
+      { "name": "5 star", "count": 1745 }
+    ]
+  },
+
+   {
+    "image": "/assets/demo-app (6).webp",
+    "title": "Recipe Book",
+    "companyName": "AppForge",
+    "id": 6,
+    "description": "Find and save your favorite recipes.",
+    "size": 198.34,
+    "reviews": 3098,
+    "ratingAvg": 4.02,
+    "downloads": 323455,
+    "ratings": [
+      { "name": "1 star", "count": 108 },
+      { "name": "2 star", "count": 219 },
+      { "name": "3 star", "count": 566 },
+      { "name": "4 star", "count": 1102 },
+      { "name": "5 star", "count": 1103 }
+    ]
+  },
+  {
+    "image": "/assets/demo-app ().webp",
+    "title": "Expense Tracker",
+    "companyName": "PixelWare",
+    "id": 7,
+    "description": "Keep track of your expenses and savings.",
+    "size": 112.75,
+    "reviews": 3572,
+    "ratingAvg": 4.08,
+    "downloads": 411276,
+    "ratings": [
+      { "name": "1 star", "count": 148 },
+      { "name": "2 star", "count": 282 },
+      { "name": "3 star", "count": 603 },
+      { "name": "4 star", "count": 1200 },
+      { "name": "5 star", "count": 1339 }
+    ]
+  },
+  {
+    "image": "/assets/demo-app ().webp",
+    "title": "Meditation Guide",
+    "companyName": "DevSpark",
+    "id": 8,
+    "description": "Relax and meditate with guided sessions.",
+    "size": 245.60,
+    "reviews": 3981,
+    "ratingAvg": 3.94,
+    "downloads": 654887,
+    "ratings": [
+      { "name": "1 star", "count": 167 },
+      { "name": "2 star", "count": 315 },
+      { "name": "3 star", "count": 710 },
+      { "name": "4 star", "count": 1315 },
+      { "name": "5 star", "count": 1474 }
+    ]
+  },
+  {
+    "image": "/assets/demo-app ().webp",
+    "title": "Weather App",
+    "companyName": "AppVision",
+    "id": 9,
+    "description": "Get accurate weather forecasts and alerts.",
+    "size": 156.48,
+    "reviews": 4741,
+    "ratingAvg": 3.89,
+    "downloads": 888021,
+    "ratings": [
+      { "name": "1 star", "count": 224 },
+      { "name": "2 star", "count": 382 },
+      { "name": "3 star", "count": 860 },
+      { "name": "4 star", "count": 1583 },
+      { "name": "5 star", "count": 1692 }
+    ]
+  },
+  {
+    "image": "/assets/demo-app ().webp",
+    "title": "Music Player",
+    "companyName": "SoftByte",
+    "id": 10,
+    "description": "Stream and manage your favorite music in one place.",
+    "size": 134.62,
+    "reviews": 5312,
+    "ratingAvg": 4.22,
+    "downloads": 721945,
+    "ratings": [
+      { "name": "1 star", "count": 160 },
+      { "name": "2 star", "count": 330 },
+      { "name": "3 star", "count": 742 },
+      { "name": "4 star", "count": 1695 },
+      { "name": "5 star", "count": 2385 }
+    ]
+  },
+  {
+    "image": "/assets/demo-app ().webp",
+    "title": "Fitness Tracker",
+    "companyName": "AppForge",
+    "id": 11,
+    "description": "Track your workouts and monitor progress over time.",
+    "size": 165.22,
+    "reviews": 3900,
+    "ratingAvg": 3.87,
+    "downloads": 302983,
+    "ratings": [
+      { "name": "1 star", "count": 200 },
+      { "name": "2 star", "count": 315 },
+      { "name": "3 star", "count": 705 },
+      { "name": "4 star", "count": 1250 },
+      { "name": "5 star", "count": 1430 }
+    ]
+  },
+  {
+    "image": "/assets/demo-app ().webp",
+    "title": "Task Manager",
+    "companyName": "TechNova",
+    "id": 12,
+    "description": "An intuitive app to manage your daily tasks efficiently.",
+    "size": 214.10,
+    "reviews": 4837,
+    "ratingAvg": 3.98,
+    "downloads": 452008,
+    "ratings": [
+      { "name": "1 star", "count": 178 },
+      { "name": "2 star", "count": 333 },
+      { "name": "3 star", "count": 772 },
+      { "name": "4 star", "count": 1512 },
+      { "name": "5 star", "count": 2042 }
+    ]
+  },
+  {
+    "image": "/assets/demo-app ().webp",
+    "title": "Recipe Book",
+    "companyName": "CodeCrafters",
+    "id": 13,
+    "description": "Find and save your favorite recipes.",
+    "size": 123.41,
+    "reviews": 2890,
+    "ratingAvg": 4.09,
+    "downloads": 231882,
+    "ratings": [
+      { "name": "1 star", "count": 112 },
+      { "name": "2 star", "count": 221 },
+      { "name": "3 star", "count": 544 },
+      { "name": "4 star", "count": 998 },
+      { "name": "5 star", "count": 1015 }
+    ]
+  },
+  {
+    "image": "/assets/demo-app ().webp",
+    "title": "Note Taker",
+    "companyName": "Innovent",
+    "id": 14,
+    "description": "Take notes and organize your thoughts easily.",
+    "size": 142.78,
+    "reviews": 4021,
+    "ratingAvg": 4.12,
+    "downloads": 648902,
+    "ratings": [
+      { "name": "1 star", "count": 144 },
+      { "name": "2 star", "count": 298 },
+      { "name": "3 star", "count": 653 },
+      { "name": "4 star", "count": 1333 },
+      { "name": "5 star", "count": 1593 }
+    ]
+  },
+  {
+    "image": "/assets/demo-app ().webp",
+    "title": "Photo Editor",
+    "companyName": "ByteWorks",
+    "id": 15,
+    "description": "Edit your photos with professional tools and filters.",
+    "size": 186.44,
+    "reviews": 4880,
+    "ratingAvg": 4.15,
+    "downloads": 895414,
+    "ratings": [
+      { "name": "1 star", "count": 162 },
+      { "name": "2 star", "count": 302 },
+      { "name": "3 star", "count": 732 },
+      { "name": "4 star", "count": 1510 },
+      { "name": "5 star", "count": 2174 }
+    ]
+  },
+   {
+    "image": "/assets/demo-app ().webp",
+    "title": "Language Learner",
+    "companyName": "DevSpark",
+    "id": 16,
+    "description": "Learn new languages with interactive lessons.",
+    "size": 119.87,
+    "reviews": 3620,
+    "ratingAvg": 3.95,
+    "downloads": 425876,
+    "ratings": [
+      { "name": "1 star", "count": 154 },
+      { "name": "2 star", "count": 280 },
+      { "name": "3 star", "count": 692 },
+      { "name": "4 star", "count": 1275 },
+      { "name": "5 star", "count": 1219 }
+    ]
+  },
+  {
+    "image": "/assets/demo-app ().webp",
+    "title": "Weather App",
+    "companyName": "PixelWare",
+    "id": 17,
+    "description": "Get accurate weather forecasts and alerts.",
+    "size": 144.50,
+    "reviews": 5162,
+    "ratingAvg": 4.03,
+    "downloads": 765332,
+    "ratings": [
+      { "name": "1 star", "count": 187 },
+      { "name": "2 star", "count": 319 },
+      { "name": "3 star", "count": 841 },
+      { "name": "4 star", "count": 1607 },
+      { "name": "5 star", "count": 2208 }
+    ]
+  },
+  {
+    "image": "/assets/demo-app ().webp",
+    "title": "Music Player",
+    "companyName": "AppVision",
+    "id": 18,
+    "description": "Stream and manage your favorite music in one place.",
+    "size": 131.23,
+    "reviews": 3888,
+    "ratingAvg": 3.91,
+    "downloads": 345213,
+    "ratings": [
+      { "name": "1 star", "count": 178 },
+      { "name": "2 star", "count": 298 },
+      { "name": "3 star", "count": 755 },
+      { "name": "4 star", "count": 1342 },
+      { "name": "5 star", "count": 1315 }
+    ]
+  },
+  {
+    "image": "/assets/demo-app ().webp",
+    "title": "Photo Editor",
+    "companyName": "TechNova",
+    "id": 19,
+    "description": "Edit your photos with professional tools and filters.",
+    "size": 178.90,
+    "reviews": 4134,
+    "ratingAvg": 4.11,
+    "downloads": 567110,
+    "ratings": [
+      { "name": "1 star", "count": 143 },
+      { "name": "2 star", "count": 273 },
+      { "name": "3 star", "count": 648 },
+      { "name": "4 star", "count": 1440 },
+      { "name": "5 star", "count": 1630 }
+    ]
+  },
+  {
+    "image": "/assets/demo-app ().webp",
+    "title": "Note Taker",
+    "companyName": "NextGenApps",
+    "id": 20,
+    "description": "Take notes and organize your thoughts easily.",
+    "size": 87.66,
+    "reviews": 2777,
+    "ratingAvg": 4.06,
+    "downloads": 301229,
+    "ratings": [
+      { "name": "1 star", "count": 105 },
+      { "name": "2 star", "count": 196 },
+      { "name": "3 star", "count": 507 },
+      { "name": "4 star", "count": 1022 },
+      { "name": "5 star", "count": 947 }
+    ]
+  },
+  {
+    "image": "/assets/demo-app ().webp",
+    "title": "Meditation Guide",
+    "companyName": "SoftByte",
+    "id": 21,
+    "description": "Relax and meditate with guided sessions.",
+    "size": 213.80,
+    "reviews": 3890,
+    "ratingAvg": 3.97,
+    "downloads": 508339,
+    "ratings": [
+      { "name": "1 star", "count": 166 },
+      { "name": "2 star", "count": 298 },
+      { "name": "3 star", "count": 725 },
+      { "name": "4 star", "count": 1295 },
+      { "name": "5 star", "count": 1406 }
+    ]
+  },
+  {
+    "image": "/assets/demo-app ().webp",
+    "title": "Recipe Book",
+    "companyName": "AppForge",
+    "id": 22,
+    "description": "Find and save your favorite recipes.",
+    "size": 176.10,
+    "reviews": 3533,
+    "ratingAvg": 4.13,
+    "downloads": 230900,
+    "ratings": [
+      { "name": "1 star", "count": 129 },
+      { "name": "2 star", "count": 260 },
+      { "name": "3 star", "count": 612 },
+      { "name": "4 star", "count": 1277 },
+      { "name": "5 star", "count": 1255 }
+    ]
+  },
+  {
+    "image": "/assets/demo-app ().webp",
+    "title": "Language Learner",
+    "companyName": "DevSpark",
+    "id": 23,
+    "description": "Learn new languages with interactive lessons.",
+    "size": 147.21,
+    "reviews": 4290,
+    "ratingAvg": 3.93,
+    "downloads": 491382,
+    "ratings": [
+      { "name": "1 star", "count": 168 },
+      { "name": "2 star", "count": 304 },
+      { "name": "3 star", "count": 788 },
+      { "name": "4 star", "count": 1512 },
+      { "name": "5 star", "count": 1518 }
+    ]
+  },
+  {
+    "image": "/assets/demo-app ().webp",
+    "title": "Expense Tracker",
+    "companyName": "AppVision",
+    "id": 24,
+    "description": "Keep track of your expenses and savings.",
+    "size": 110.02,
+    "reviews": 3120,
+    "ratingAvg": 4.04,
+    "downloads": 349102,
+    "ratings": [
+      { "name": "1 star", "count": 118 },
+      { "name": "2 star", "count": 245 },
+      { "name": "3 star", "count": 621 },
+      { "name": "4 star", "count": 1045 },
+      { "name": "5 star", "count": 1091 }
+    ]
+  },
+  {
+    "image": "/assets/demo-app ().webp",
+    "title": "Task Manager",
+    "companyName": "CodeCrafters",
+    "id": 25,
+    "description": "An intuitive app to manage your daily tasks efficiently.",
+    "size": 153.66,
+    "reviews": 3690,
+    "ratingAvg": 4.00,
+    "downloads": 477023,
+    "ratings": [
+      { "name": "1 star", "count": 150 },
+      { "name": "2 star", "count": 310 },
+      { "name": "3 star", "count": 700 },
+      { "name": "4 star", "count": 1250 },
+      { "name": "5 star", "count": 1280 }
+    ]
+  },
+  {
+    "image": "/assets/demo-app ().webp",
+    "title": "Meditation Guide",
+    "companyName": "ByteWorks",
+    "id": 26,
+    "description": "Relax and meditate with guided sessions.",
+    "size": 166.70,
+    "reviews": 4010,
+    "ratingAvg": 4.08,
+    "downloads": 597120,
+    "ratings": [
+      { "name": "1 star", "count": 140 },
+      { "name": "2 star", "count": 290 },
+      { "name": "3 star", "count": 660 },
+      { "name": "4 star", "count": 1420 },
+      { "name": "5 star", "count": 1500 }
+    ]
+  },
+  {
+    "image": "/assets/demo-app ().webp",
+    "title": "Weather App",
+    "companyName": "Innovent",
+    "id": 27,
+    "description": "Get accurate weather forecasts and alerts.",
+    "size": 189.12,
+    "reviews": 4199,
+    "ratingAvg": 4.10,
+    "downloads": 832199,
+    "ratings": [
+      { "name": "1 star", "count": 130 },
+      { "name": "2 star", "count": 278 },
+      { "name": "3 star", "count": 702 },
+      { "name": "4 star", "count": 1489 },
+      { "name": "5 star", "count": 1600 }
+    ]
+  },
+  {
+    "image": "/assets/demo-app ().webp",
+    "title": "Expense Tracker",
+    "companyName": "AppForge",
+    "id": 28,
+    "description": "Keep track of your expenses and savings.",
+    "size": 133.13,
+    "reviews": 3877,
+    "ratingAvg": 3.97,
+    "downloads": 603121,
+    "ratings": [
+      { "name": "1 star", "count": 156 },
+      { "name": "2 star", "count": 312 },
+      { "name": "3 star", "count": 688 },
+      { "name": "4 star", "count": 1330 },
+      { "name": "5 star", "count": 1391 }
+    ]
+  },
+  {
+    "image": "/assets/demo-app ().webp",
+    "title": "Note Taker",
+    "companyName": "TechNova",
+    "id": 29,
+    "description": "Take notes and organize your thoughts easily.",
+    "size": 102.55,
+    "reviews": 2950,
+    "ratingAvg": 4.05,
+    "downloads": 258443,
+    "ratings": [
+      { "name": "1 star", "count": 110 },
+      { "name": "2 star", "count": 240 },
+      { "name": "3 star", "count": 590 },
+      { "name": "4 star", "count": 1020 },
+      { "name": "5 star", "count": 990 }
+    ]
+  },
+  {
+    "image": "/assets/demo-app ().webp",
+    "title": "Language Learner",
+    "companyName": "NextGenApps",
+    "id": 30,
+    "description": "Learn new languages with interactive lessons.",
+    "size": 162.82,
+    "reviews": 4382,
+    "ratingAvg": 4.14,
+    "downloads": 718241,
+    "ratings": [
+      { "name": "1 star", "count": 123 },
+      { "name": "2 star", "count": 279 },
+      { "name": "3 star", "count": 675 },
+      { "name": "4 star", "count": 1430 },
+      { "name": "5 star", "count": 1875 }
+    ]
+  }
+]
